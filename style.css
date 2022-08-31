@@ -1,0 +1,14 @@
+body{
+    background-color: #3B3B40;   
+}
+#imagemlogo{
+    width: 150px;
+    height: 150px;
+}
+.textos{
+    color: aliceblue;
+}
+a{
+    color: aliceblue;
+    font-size: 16px;
+}
